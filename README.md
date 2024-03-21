@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Author and maintainer of [Bucket4j](https://github.com/bucket4j/bucket4j).
+
 <!--
 **vladimir-bukhtoyarov/vladimir-bukhtoyarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
